@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-fenestra = "0.3"
+fenestra = "0.4"
 
 [lints.rust]
 unsafe_code = "forbid"
